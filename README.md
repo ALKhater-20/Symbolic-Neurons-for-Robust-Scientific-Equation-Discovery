@@ -527,9 +527,9 @@ Unless otherwise stated, the code is intended for research and academic use.
 
 For questions, suggestions, or collaboration inquiries, please open a GitHub Issue or contact:
 
-**Author:** AUTHOR NAME
-**Institution:** INSTITUTION NAME
-**Email:** EMAIL ADDRESS
+**Author:** Maamar KHATER
+**Institution:** University of Saida Dr Moulay Tahar
+**Email:** maamar.khater@univ-saida.dz
 
 ---
 
