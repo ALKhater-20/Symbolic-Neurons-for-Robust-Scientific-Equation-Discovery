@@ -517,7 +517,7 @@ Representative methods include PySR, EQL, Deep Symbolic Regression, and related 
 
 ## License
 
-This repository is released under the license specified in `LICENSE`.
+This repository is released under the license specified in `LICENSE`. 
 
 Unless otherwise stated, the code is intended for research and academic use.
 
